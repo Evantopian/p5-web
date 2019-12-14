@@ -1,0 +1,42 @@
+/*Team*/
+.team{
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.team img{
+  width: 150px;
+  height: 150px;
+  /*Object fit will crop and center image based on width and height*/
+  object-fit: cover;
+  border-radius: 50%;
+  margin-bottom: 50px;
+}
+
+.col{
+   background-color: rgba(0, 0, 0, 0.5)
+}
+
+.team-info{
+ color: white;
+}
+
+body{
+  background: url("https://images.unsplash.com/photo-1497366754035-f200968a6e72?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+}
+
+h1{
+  color:white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.header-text {
+	margin-top: 100px;
+	background: rgba(0, 0, 0, 0.5);
+	padding: 15px 30px 15px 30px;
+	
+}
+
+.header-button {
+	margin-top: 15px;
+}
+
