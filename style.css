@@ -1,0 +1,191 @@
+/*home*/
+.head{
+  display: block;
+  background-image: url("https://www.duluxdecoratorcentre.co.uk/content/files/uk/images/pages/wallpaper/wallpaper-pattern.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  height: 18em;
+ 
+}
+
+.name{
+  /*font-family: Old Gate Lane NF;*/
+  color: white;
+  margin-top: 1em;
+  text-align: center;
+  font-size: 80px;
+}
+
+.p{
+  padding-top: 1em;
+  word-spacing: -5px;
+  color: white;
+}
+.h{
+  font-size: 16.22px;
+  border: solid transparent;
+  border-radius: 10%;
+  padding: 1em;
+  cursor: pointer;
+  background-color: rgba(255, 255, 255, 0.4);
+  transition: background-color 0s;
+}
+.h:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.i{
+  border: solid transparent;
+  border-radius: 10%;
+  padding: 1em;
+  cursor: pointer;
+  transition: background-color 0s;
+}
+.i:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.s{
+  border: solid transparent;
+  border-radius: 10%;
+  padding: 1em;
+  cursor: pointer;
+  transition: background-color 0s;
+}
+.s:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+.a{
+  border: solid transparent;
+  border-radius: 10%;
+  padding: 1em;
+  cursor: pointer;
+  transition: background-color 0s;
+}
+.a:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+}
+/* head */
+
+/*items*/
+.items{
+  display: none;
+  background-image: url("https://www.duluxdecoratorcentre.co.uk/content/files/uk/images/pages/wallpaper/wallpaper-pattern.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  height: 18em;
+}
+.a1:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+ 
+ .s1:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+ .i1:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .h1:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  /*items*/
+  
+  /*service*/
+  .service{
+  display: none;
+  background-image: url("https://www.duluxdecoratorcentre.co.uk/content/files/uk/images/pages/wallpaper/wallpaper-pattern.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  height: 18em;
+  }
+  .a2:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+ 
+ .s2:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+ .i2:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .h2:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+   /*service*/
+   /*about*/
+  .about{
+  display: none;
+  background-image: url("https://www.duluxdecoratorcentre.co.uk/content/files/uk/images/pages/wallpaper/wallpaper-pattern.png");
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: cover;
+  height: 18em;
+  }
+  .a3:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+ 
+ .s3:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+ .i3:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+  
+  .h3:hover{
+  background-color: rgba(255, 255, 255, 0.5);
+  }
+   /*about*/
+   .head1{
+     display: block;
+   }
+   .items1{
+     display: none;
+   }
+    .service1{
+     display: none;
+   }
+    .about1{
+     display: none;
+   }
+  .t-hading{
+    text-align: center;
+    margin-top: 5em;
+    color:rgb(0,120,255);
+    word-spacing:8px;
+  }
+
+#ic{
+  border-style: solid transparent;
+  border-radius:50%;
+  padding:5px;
+  background-color:white;
+  color:black;
+}.it:hover{
+  background-color:rgba(255,154,0, 0.8);
+  }
+ 
+ .sa:hover{
+  background-color:rgba(255,154,0, 0.8);
+  }
+  
+ .of:hover{
+  background-color:rgba(255,154,0, 0.8);
+  }
+
+  /*Home section*/
+  .headerb
+  {
+    height: 120em;
+    width: 100%;
+    
+    background-image: url("https://static01.nyt.com/images/2017/05/11/t-magazine/bookstore-slide-2MCD/bookstore-slide-2MCD-superJumbo.jpg?quality=90&auto=webp");
+    background-size: cover;
+  }
+
