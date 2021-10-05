@@ -1,0 +1,11 @@
+.jumbotron {
+	background-color: none;
+	background-image: url("https://images.unsplash.com/photo-1573801209310-61a724e4052a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+ 	background-position: center; 
+	background-size: 2000px;
+	height: 90vh;
+	font-family: 'Poppins', sans-serif;
+	color:#fff;
+	border-radius: 0 !important;
+}
+

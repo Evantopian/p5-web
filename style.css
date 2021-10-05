@@ -1,0 +1,52 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+  	color: black;
+
+}
+
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 2rem;
+  }
+
+
+
+.btn-primary {
+  
+  
+  background-color: forestgreen;
+  border-color: none;
+  border: none;
+}
+
+.btn-primary:hover {
+  
+ 
+  background-color:   rgb(24, 204, 24);
+  border-color: none;
+  border: none;
+}
+
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: #1765cc;
+}
+
+nav {
+	margin-top: 8px;
+}
+
+span.bold-header {
+	font-weight: bold;
+}
+
+
+
+
+
+
+
